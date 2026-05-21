@@ -1,0 +1,457 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/vesti-fm.webp" group-title="Радио",Вести FM ВГТРК Прямой эфир
+http://icecast-vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/majak-radio.webp" group-title="Радио",МАЯК ВГТРК Прямой эфир
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_aac_64kbps
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio-rossii.webp" group-title="Радио",Радио России ВГТРК Прямой эфир
+http://icecast-vgtrk.cdnvideo.ru/rrzonam_aac_64kbps
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/10kultura.webp" group-title="Радио",Культура ВГТРК Прямой эфир
+http://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/10unost.webp" group-title="Радио",Юность ВГТРК Прямой эфир
+https://icecast-vgtrk.cdnvideo.ru/unost_mp3_64kbps
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/izru.webp" group-title="Радио",Радио Известия
+https://hls-igi.cdnvideo.ru/igi/radio1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/sputnik.webp" group-title="Радио",Sputnik
+http://icecast-rian.cdnvideo.ru/voicerus
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radiomoscow.webp" group-title="Радио",Радио Москвы 3-я кнопка
+http://icecast-vgtrk.cdnvideo.ru/moscowtalk128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/moskva_fm.webp" group-title="Радио",Москва FM 92.0FM
+http://icecast.vgtrk.cdnvideo.ru/moscowfm128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/sk.webp" group-title="Радио",Спутник в Крыму
+http://icecast-rian.cdnvideo.ru/voicesym
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/vestifm_kuban.webp" group-title="Радио",Вести FM Кубань
+https://icecast-vgtrk.cdnvideo.ru/vesti_kuban
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radiokrasnodar.webp" group-title="Радио",Радио Краснодар
+https://icecast-radiokrasnodar.cdnvideo.ru/radiokrasnodar_tpr_01
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/soloviev-live.webp" group-title="Радио",Соловьёв ФМ Прямой эфир
+https://solovievfm.hostingradio.ru/solovievfm32.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kpravda.webp" group-title="Радио",Комсомольская правда Прямой эфир
+http://kpradio.hostingradio.ru:8000/64
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rbk-radio.webp" group-title="Радио",Радио РБК Прямой эфир
+https://hls-01-rbc.hostingradio.ru/rbc-fed0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rgordost2.webp" group-title="Радио",Радио Гордость
+http://rgordost.hostingradio.ru/rgordost64.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/yug-molodoy.webp" group-title="Радио",ЮГ Молодой
+https://listen4.myradio24.com/18718
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rodniki.webp" group-title="Радио",Родники - народное радио
+http://rodniki.hostingradio.ru/rodniki128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/zvezda.webp" group-title="Радио",Радио Звезда
+http://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_64
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pobeda2-by.webp" group-title="Радио",Радио Победа
+https://stream.sb.by/den_pobedy
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/govorit_moskva94_8.webp" group-title="Радио",Говорит Москва 94.8FM
+https://fed.fmplay.ru:8000/gmoskva-32.aac
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kommersant.webp" group-title="Радио",Коммерсантъ FM
+https://fed.fmplay.ru:8000/kommersant-32.aac
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/bfm.webp" group-title="Радио",87,5 BUSINESS FM
+https://bfm.hostingradio.ru:9075/fm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rusradio.webp" group-title="Радио",Русское Радио
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/invoice-media.webp" group-title="Радио",Invoice Media
+https://listen.myrh.ru/id079040
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/ruwave.webp" group-title="Радио",Русская Волна
+https://ru1.amgradio.ru/RuWave48
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/europaplus.webp" group-title="Радио",Europa Plus
+http://hls-02-europaplus.emgsound.ru/11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/svoya-volna.webp" group-title="Радио",Своя Волна
+https://radio.gtrklnr.ru:8443/your.fm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/marusya.webp" group-title="Радио",Маруся ФМ
+https://listen.vdfm.ru:8000/marusya
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/krym_tochka.webp" group-title="Радио",Точка.Крым - проводное радио Прямой эфир
+https://radiowired.1tvcrimea.ru:19001/stream_provod.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/sevastopol_fm.webp" group-title="Радио",Севастополь FM Прямой эфир
+https://sevfm.ru:9006/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/bestfm.webp" group-title="Радио",Best FM
+https://nashe1.hostingradio.ru/best-128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/sevastopol_govorit.webp" group-title="Радио",Говорит Севастополь Прямой эфир
+https://sevfm.ru:9006/govsev
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radiomore.webp" group-title="Радио",Радио Море (Крым)
+https://sea.1tvcrimea.ru:19003/stream_sea.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio-krim.webp" group-title="Радио",Радио Крым
+https://fm.1tvcrimea.ru:19000/stream.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/vzrosloe.webp" group-title="Радио",Радио для Взрослых
+https://listen6.myradio24.com/alex542888
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/soviet_songs.webp" group-title="Радио",Советские Песни
+http://sovetskie-pesni.ru:8005/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/baltik-plyus.webp" group-title="Радио",Baltic Plus
+http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/eldoradio.webp" group-title="Радио",Эльдорадио
+https://emgspb.hostingradio.ru/eldoradio128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/music_box_radio.webp" group-title="Радио",Music Box Radio
+https://musicbox.amgradio.ru/musicbox
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/megaradio.webp" group-title="Радио",Mega Radio
+https://mega.amgradio.ru/mega
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/melody.webp" group-title="Радио",Радио Мелодия
+https://stream.salyutfm.ru:4020/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/monster_rock_ussr.webp" group-title="Радио",Монстры Рока СССР
+https://ic1.radiosignal.one/ussr
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/russkoe_fm.webp" group-title="Радио",Русское FM
+https://rufm.amgradio.ru/rufm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rokotfm.webp" group-title="Радио",Рокот FM Луганск
+https://drh-node-01.dline-media.com/rokot_fm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio_333.webp" group-title="Радио",Радио 333
+https://listen1.myradio24.com/63361
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/chillafm.webp" group-title="Радио",Chilla FM
+https://chilla.amgradio.ru/ChillaFM
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/vera.webp" group-title="Радио",Радио Вера
+https://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/shtorm.webp" group-title="Радио",Шторм FM
+https://shtorm.amgradio.ru/shtormfm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/novoe.webp" group-title="Радио",Новое Радио
+https://stream.newradio.ru/novoe96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/montecarlo.webp" group-title="Радио",Радио Монте-Карло
+https://montecarlo.hostingradio.ru/montecarlo96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/maximum.webp" group-title="Радио",Радио Maximum
+https://radio.promedia.ru/max-sev
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/power_hit.webp" group-title="Радио",Power ХИТ Мурманск 104.5
+https://drh-node-02.dline-media.com/powerhit128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pulse_edm.webp" group-title="Радио",PulseEDM Dance Music
+https://naxos.cdnstream.com/1373_128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/tnt.webp" group-title="Радио",ТНТ MUSIC RADIO
+https://tntradio.hostingradio.ru:8027/tntradio128.mp3?radiostatistica=tntmusic.ru
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/dorojnoe.webp" group-title="Радио",Дорожное Радио
+http://dorognoe.hostingradio.ru:8000/dorognoe
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/chocolate.webp" group-title="Радио",Шоколад ФМ
+https://choco.hostingradio.ru:10010/fm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/horoshee.webp" group-title="Радио",Хорошее Радио
+https://hr.amgradio.ru/Horoshee
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/russ_rock.webp" group-title="Радио",Русский Рок
+https://rock.amgradio.ru/RusRock
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/avtoradio.webp" group-title="Радио",АвтоРадио
+https://stream.pcradio.ru/avtoradio_spb-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/lite_fm.webp" group-title="Радио",Lite FM
+https://litefm.amgradio.ru/litefm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/borneo.webp" group-title="Радио",Радио Борнео
+https://live.borneo.ru:8888/64
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/retrohit.webp" group-title="Радио",Ретро ХИТ
+https://retro.amgradio.ru/Retro
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/enigma.webp" group-title="Радио",Enigma FM
+https://listen2.myradio24.com/8226
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/top100.webp" group-title="Радио",ТОР 100 RU
+https://ic1.radiosignal.one/top100
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio_ussr.webp" group-title="Радио",Радио СССР
+https://listen9.myradio24.com/ussr
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/shanson.webp" group-title="Радио",Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/dvanya.webp" group-title="Радио",Дядя Ваня на Даче
+https://cors-anywhere.wcx.cloud/https://ic1.radiosignal.one/vanya
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/remix_fm.webp" group-title="Радио",Remix FM
+https://air4.amgradio.ru/RemixFM
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/premium.webp" group-title="Радио",Радио Premium - соответствует вкусам первых!
+https://listen.rpfm.ru:9000/premium128?radiostatistica=glavnoeradio-ru
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/naftalin.webp" group-title="Радио",Радио record Нафталин ФМ
+https://radiorecord.hostingradio.ru/naft96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/z-radio.webp" group-title="Радио",Z-FM
+https://node1.craftradio.ru:8003/201_EFA53E54
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rcm.webp" group-title="Радио",RCM DEEP - радио, которое не оставит тебя равнодушным.
+https://h.getradio.me/rcmdeep/hls.m3u8
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/nashe.webp" group-title="Радио",Наше Радио
+https://nashe5.hostingradio.ru/nashe-128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/voltagefm.webp" group-title="Радио",Вольтаж FM
+http://radio.voltagefm.ru/VOLTAGEFM
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/voltagerock.webp" group-title="Радио",Вольтаж Rock
+http://radio.voltagefm.ru/VoltageROCK_64_aac
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/voltageultra.webp" group-title="Радио",Вольтаж ULTRA
+http://radio.voltagefm.ru/VoltageULTRA
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/voltageussr.webp" group-title="Радио",Вольтаж СССР
+http://radio.voltagefm.ru/VoltageUSSR_64_aac
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/cafe-radio.webp" group-title="Радио",Radio Cafe
+https://cafe.amgradio.ru/Cafe
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/atmosfera.webp" group-title="Радио",Радио Атмосфера
+https://listen10.myradio24.com/atmo
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/russian_songs.webp" group-title="Радио",Russian Songs
+http://listen.rusongs.ru/ru-mp3-128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/hype_fm.webp" group-title="Радио",ХАЙП FM - HYPE FM
+https://hfm.volna.top/HypeFM
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/dfm-dance.webp" group-title="Радио",DFM Dance
+https://dfm.hostingradio.ru/dfm96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/likefm.webp" group-title="Радио",Like FM - Москва
+https://pub0102.101.ru:8443/stream/reg/aac/64/region_like_tz_0
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/1768133582.webp" group-title="Радио",Русское Радио - Русское Кино
+https://rusradio.hostingradio.ru/russkoekino96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/uniton.webp" group-title="Радио",Юнитон (Новосибирск)
+http://online.uniton.ru:8300/RadioUniton128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/glagol-radio.webp" group-title="Радио",Радио Глаголь
+https://a4.radioheart.ru:9007/nonstop
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/costa.webp" group-title="Радио",Радио Costa Del Mar – Chillout
+https://1.restream.one/472_1
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/relax_music.webp" group-title="Радио",Relaxation Music
+http://79.120.39.202:8002/relaxation
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rd.webp" group-title="Радио",Радио Дача
+http://listen13.vdfm.ru:8000/dacha
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/sadovod.webp" group-title="Радио",Радио Садовод
+https://stream.cassiopeia-station.ru:1335/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/retro.webp" group-title="Радио",Ретро ФМ Прямой эфир (256 kbps)
+https://retro.hostingradio.ru:8043/retro256.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/staroe_radio.webp" group-title="Радио",Старое Радио
+http://195.91.237.50:8000/ices64
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/staroe_music.gif" group-title="Радио",Старое Радио Музыка в прямом эфире
+http://195.91.237.50:8000/music128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pilotfm.webp" group-title="Радио",Пилот fm
+https://online.pilotfm.ru/pilot_aacplus
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/shkiper.webp" group-title="Радио",Радио Шкипер - Черноморское (Крым)
+https://listen9.myradio24.com/bolshevek
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/hit_fm.webp" group-title="Радио",Хит ФМ
+https://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/silver-rain-radio.webp" group-title="Радио",Серебряный Дождь
+http://silverrain.hostingradio.ru/silver128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/maks-fm.webp" group-title="Радио",Макс FM
+https://maksfm.hostingradio.ru/maksfm128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/grozny.webp" group-title="Радио",Грозный FM
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/fantasy.webp" group-title="Радио",Fantasy Italo Radio
+https://italo.live-streams.nl/fantasy
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/top_radio.webp" group-title="Радио",ТОП Радио
+https://streamer.radiovseti.ru:8443/tr_hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rmi-new-generation.webp" group-title="Радио",RMI Italo New Generation
+https://ams-pioneer02.dedicateware.com:2545/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rmi-classic-disco.webp" group-title="Радио",RMI Italo Disco Classic
+https://ams-pioneer02.dedicateware.com:2485/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rmi-euro-disco.webp" group-title="Радио",RMI Euro Disco
+https://ams-pioneer02.dedicateware.com:2655/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/italo4you.webp" group-title="Радио",Italo4You
+http://s0.radiohost.pl:8018/Italo4you
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/synthetic_fm.webp" group-title="Радио",SYNTHETIC FM
+https://mediaserv38.live-streams.nl:18030/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/synthetic_fm_black.webp" group-title="Радио",SYNTHETIC FM 2
+https://mediaserv38.live-streams.nl:18040/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/myata.webp" group-title="Радио",Мята
+https://drh-node-02.dline-media.com/myata
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kniga_vsluh.webp" group-title="Радио",Книга Вслух
+https://radio-soyuz.ru:1045/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/heart80s.webp" group-title="Радио",Heart 80 London
+https://media-ssl.musicradio.com/Heart80s
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/heart-love.webp" group-title="Радио",Heart Love
+https://media-ice.musicradio.com/HeartLove
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/heart-dance.webp" group-title="Радио",Heart Dance
+https://media-ssl.musicradio.com/HeartDance
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/krasnoyarsk99.webp" group-title="Радио",Радио 99.1 Красноярск
+https://online2.99-1.ru/99i1
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/lo-fi.webp" group-title="Радио",Lo-Fi
+https://radiorecord.hostingradio.ru/lofi96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/union-radio.webp" group-title="Радио",Всесоюзное Радио Онлайн
+https://stream.cassiopeia-station.ru:1045/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio24.webp" group-title="Радио",Radio 24
+https://stream.vyshka24.ru/radio24
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/detskiy_kanal.webp" group-title="Радио",Детский Канал - Русское Радио
+https://rr-detskijkanal.hostingradio.ru/detskijkanal96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/skazkafm.webp" group-title="Радио",СКАЗКА FM
+https://skazka.amgradio.ru/Skazka
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/detskoe_radio.webp" group-title="Радио",Детское Радио
+https://srv21.gpmradio.ru:8443/stream/air/aac/64/199
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/1395.webp" group-title="Радио",Детский ХИТ
+https://deti.amgradio.ru/Deti
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kaleidoskop-shanson.webp" group-title="Радио",Калейдоскоп ШАНСОН
+https://listen7.myradio24.com/22602
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/sibir_omsk.webp" group-title="Радио",Радио Сибирь (Омск)
+https://stream.radiosibir.ru:8093/rsomskweb
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/nugoa.webp" group-title="Радио",NU GOA PSYSTATION
+https://5.restream.one/1087_1
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pg.webp" group-title="Радио",Песня Года
+https://microit.n340.ru:8443/VgMv0WV17ZVx1uuo_2_pesnyagoda_56
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/chillout-kamchatka.webp" group-title="Радио",CHILL Камчатка
+http://radio.kamchatkalive.ru:8100/chillout
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/ultra.webp" group-title="Радио",Ultra
+http://nashe1.hostingradio.ru:80/ultra-256
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/capital_fm.webp" group-title="Радио",Capital FM 105.3
+http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/ussr_radio.webp" group-title="Радио",Мы из СССР
+https://stream06.pcradio.ru/SSSR-med
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/dushevnoe.webp" group-title="Радио",Душевное Радио (Беларусь)
+https://stream2.datacenter.by/dushevnoe
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/keks.webp" group-title="Радио",Кекс FM Rus
+http://emg02.hostingradio.ru/keksfm64.aac
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rockstancia.webp" group-title="Радио",Рок Станция
+https://rockstation.radiostream.pro/mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/685297cbb039b.webp" group-title="Радио",BeatDownX
+https://beatdownx.stream.laut.fm/beatdownx
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/cloud_rap.webp" group-title="Радио",Cloud Rap
+http://213.141.131.10:8004/cloudrap
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio7.webp" group-title="Радио",Радио 7
+https://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rockfm.webp" group-title="Радио",Rock FM
+https://nashe1.hostingradio.ru/rock-128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/blagovestie.webp" group-title="Радио",Благовестие
+http://live.borneo.ru:8888/bv64
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/drdance.webp" group-title="Радио",Дорожное Танцпол
+https://dorognoe.hostingradio.ru/dorognoe1945.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/spokoynoe_radio.webp" group-title="Радио",Спокойное Радио
+https://listen1.myradio24.com/5790
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/russianmix.webp" group-title="Радио",Русский Микс
+https://radiorecord.hostingradio.ru/rus96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rodnyix-dorog.webp" group-title="Радио",Радио Родных Дорог
+https://stream1.radiord.ru:8000/live96.aac
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio-romantika.webp" group-title="Радио",Радио Романтика
+https://srv21.gpmradio.ru:8443/stream/air/aac/64/101
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/mir.webp" group-title="Радио",Радио МИР
+https://icecast-mirtv.cdnvideo.ru/radio_mir_256
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/monte-carlo-lounge.webp" group-title="Радио",Monte Carlo Lounge
+https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kyoi.webp" group-title="Радио",KYOI
+http://radio.kyoi.ru:8005/1
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kavkazr.webp" group-title="Радио",Кавказ Радио
+http://radio.alania.net:8000/kvk
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/meta.webp" group-title="Радио",META RADIO
+https://s2.metaradio.ru/mradio.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pervoe.webp" group-title="Радио",Первое радио
+https://stream.pervoe.fm:8443/
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pervie.webp" group-title="Радио",Классное Радио (Движения Первых)
+https://schoolradio.hostingradio.ru:18026/schoolradio128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/fantastika.webp" group-title="Радио",Радио Фантастики
+https://listen10.myradio24.com/55699
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/umnoe-radio.webp" group-title="Радио",Умное Радио
+https://umnoe.amgradio.ru/Umnoe
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/mds.webp" group-title="Радио",Модель для сборки
+http://mds-station.com:8000/mds
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/cassiopeia-station.webp" group-title="Радио",Cassiopeia-Station (Наука)
+https://stream.cassiopeia-station.ru:1245/stream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/iskatel.webp" group-title="Радио",Искатель
+https://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/deep-fm.webp" group-title="Радио",Deep FM
+https://deep.amgradio.ru/DeepFM
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/lradio.webp" group-title="Радио",L-radio
+https://air.unmixed.ru/lradio256sochi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/record-skazka.webp" group-title="Радио",Сказки MC V
+https://radiorecord.hostingradio.ru/skazki96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio-book.webp" group-title="Радио",Радиокнига - слушай чтобы читать!
+https://bookradio.hostingradio.ru:8069/fm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio_background.webp" group-title="Радио",Radio Background (128 kbps)
+https://listen4.myradio24.com/84802
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/record_tech_house.webp" group-title="Радио",Tech House
+https://radiorecord.hostingradio.ru/techouse96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/trance_classic.webp" group-title="Радио",Trance Classic
+https://cors-anywhere.wcx.cloud/https://radioparty.pl:8000/
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio_shock.webp" group-title="Радио",Радио ШОК
+https://spb.radioshock.ru/radioshock48
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/hermitage.webp" group-title="Радио",Радио ЭРМИТАЖ
+https://hermitage.hostingradio.ru/hermitage128.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/garage_fm.webp" group-title="Радио",Гараж ФМ
+https://garagefm.ru/streaming/Garagefm128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/megahit.webp" group-title="Радио",МЕГАХИТ
+https://listen.megahit.online/megamp128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/legkoe.webp" group-title="Радио",Лёгкое Радио
+https://stream.audiodiz.ru/listen/light/radio
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/krasnoyarsk_glavniy.webp" group-title="Радио",Красноярск Главный
+https://streamer01.1028.fm:8443/arstream
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/1000italohits.webp" group-title="Радио",1000 Italo Hits
+https://1000italohits.stream.laut.fm/1000italohits
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/zara_fm.webp" group-title="Радио",Жара FM
+https://live1.zharafm.ru/internet
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/red-army.webp" group-title="Радио",Красная Армия
+https://live.rzs.ru/ka.96.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kazakfm.webp" group-title="Радио",Казак ФМ Прямой эфир
+https://radio.kazak.fm/kazak_fm.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/rnrfm.webp" group-title="Радио",Rock'n'Roll FM
+https://a6.radioheart.ru:9046/nonstop
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pi-fm.webp" group-title="Радио",Радио ПИ FM
+https://cdn.pifm.ru/mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/sol-fm.webp" group-title="Радио",Соль FM
+http://solfm.ru:8000/online128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/vladivostok_fm.webp" group-title="Радио",Владивосток ФМ
+http://vladfm.ru:8000/vfm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/fm_na_donu.webp" group-title="Радио",Радио ФМ на Дону Волгодонск 106.3 FM
+http://listen.vdfm.ru:8000/fmnadonu
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/narodnoeradioby.webp" group-title="Радио",Народное Радио BY
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kazradi_o.webp" group-title="Радио",Казахское радио
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/tatar-radiosi.webp" group-title="Радио",Tatar Radiosi
+https://tatarradio.hostingradio.ru/tatarradio320.mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kitap-radio.webp" group-title="Радио",Китап 98,6 FM Казан
+http://radio.tatmedia.com:8800/kitapfm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pioner.webp" group-title="Радио",Пионер ФМ
+https://listen10.myradio24.com/pionerfm
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio_piligrim.webp" group-title="Радио",Христианское Радио Пилигрим
+http://radiopiligrim.ru:8000/none-stop
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radio80s.webp" group-title="Радио",Radio 80S
+https://cors-anywhere.wcx.cloud/http://stream.laut.fm/80s-radio
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/spacesynth.webp" group-title="Радио",SpaceSynth
+https://listen2.myradio24.com/1987
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/kalina_krasnaya.webp" group-title="Радио",Калина Красная
+https://icecast-studio21.cdnvideo.ru/KalynaK_1a
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/truecolor.webp" group-title="Радио",True Color Radio
+http://online.truecolorsradio.com:9000/45329
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/record-180.webp" group-title="Радио",Радио Record
+http://radiorecord.hostingradio.ru/rr_main64.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/jazz.webp" group-title="Радио",JAZZ радио
+https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-64.aac
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/sandra.webp" group-title="Радио",Сандра ФМ
+https://stream.pcradio.ru/Sandra-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/agata_kristi.webp" group-title="Радио",Агата Кристи
+https://srv11.gpmradio.ru:8443/stream/pro/aac/64/139
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/7b.webp" group-title="Радио",Рок-группа 7Б
+https://stream.pcradio.ru/seven_b-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/petshopboys.webp" group-title="Радио",Pet Shop Boys - Легенды Электронной Музыки
+https://stream.pcradio.ru/pet_shop_boys-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/thebeatles.webp" group-title="Радио",The Beatles
+https://stream.pcradio.ru/The_Beatles-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/madonna.webp" group-title="Радио",Madonna FM
+https://stream.pcradio.ru/Madonna-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/chelentano.webp" group-title="Радио",Челентано ФМ
+https://stream.pcradio.ru/Chelentano-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/abba.webp" group-title="Радио",ABBA FM
+https://stream.pcradio.ru/abba-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/a-ha.webp" group-title="Радио",a-ha FM
+https://stream.pcradio.ru/aha-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/elena-vaenga.webp" group-title="Радио",Елена Ваенга
+https://stream.pcradio.ru/Elena_Vaenga-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/tsoy.webp" group-title="Радио",Виктор Цой и Кино
+https://srv11.gpmradio.ru:8443/stream/pro/aac/64/103
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/boyarskiy.webp" group-title="Радио",Михаил Боярский
+https://stream04.pcradio.ru/Mihail_Bojarskij-med
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/savage.webp" group-title="Радио",Savage
+https://stream.pcradio.ru/savage-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/garik-sukachev.webp" group-title="Радио",Гарик Сукачёв
+https://stream.pcradio.ru/Garik_Sukachov-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/ddt.webp" group-title="Радио",Юрий Шевчук и ДДТ
+https://srv01.gpmradio.ru/stream/pro/aac/64/112
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/duran-duran.webp" group-title="Радио",Duran Duran
+https://nl4.mystreaming.net/er/duranduranhits/icecast.audio
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/secret-service.webp" group-title="Радио",Secret Service
+https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/787182
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/shatunov.webp" group-title="Радио",Юрий Шатунов
+https://stream.pcradio.ru/Jurij_Shatunov-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/annie-lennox.webp" group-title="Радио",Annie Lennox HITS
+https://stream.pcradio.ru/anne_lennox-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/prodigy.webp" group-title="Радио",The Prodigy
+https://srv11.gpmradio.ru:8443/stream/pro/aac/64/306
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/erasure.webp" group-title="Радио",Erasure FM
+https://stream.pcradio.ru/erasure-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/depechemode.webp" group-title="Радио",Depeche Mode
+https://stream06.pcradio.ru/Depeche_Mode-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/korol.webp" group-title="Радио",КиШ
+https://stream.pcradio.ru/Korol_i_Shut-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/enya.webp" group-title="Радио",ENYA FM
+https://stream.pcradio.ru/enya-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pinkfloyd.webp" group-title="Радио",Pink Floyd
+https://stream.pcradio.ru/Pink_Floyd-hi
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/recordrukivverx-180.webp" group-title="Радио",Сергей Жуков и Алексей Потехин
+https://radiorecord.hostingradio.ru/rv96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/studio21.webp" group-title="Радио",Studio 21
+https://stream.studio21.ru/studio2196.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/pulsradio_hits.webp" group-title="Радио",PulsRadio Hits
+https://cors-anywhere.wcx.cloud/https://str3.openstream.co/1386
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/bom.webp" group-title="Радио",BOM Psytrance Radio
+https://cors-anywhere.wcx.cloud/https://strm112.1.fm/psytrance_mobile_mp3
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/relax_aplus.webp" group-title="Радио",Relax Aplus FM
+https://cors-anywhere.wcx.cloud/http://shoutcast.aplus.fm:9000/aplus_relax_128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/atm_fm.webp" group-title="Радио",ATM FM - Breaks, Progressive Breaks, Atmospheric
+http://station-sound.ru:8000/pt-2
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/mc-music.webp" group-title="Радио",Монте Карло - Музыкальное без слов
+https://montecarlo.hostingradio.ru/muzykabezslov96.aacp
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/radiofish.webp" group-title="Радио",Radio.Fish
+https://listen1.myradio24.com/8317
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/maria-fm.webp" group-title="Радио",Мария FM (Киров 102.9)
+https://online.mariafm.ru:8443/MariaFM
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/fiveradio.webp" group-title="Радио",Five
+https://radiofive.ru:8443/radio
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/djet-radio.webp" group-title="Радио",Djet Radio
+http://djetradio.ru:8000/djetradio_128
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/4you.webp" group-title="Радио",Radio4You
+https://listen7.myradio24.com/2455
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/wow_top_50.webp" group-title="Радио",Wow Top 50
+https://stream.vyshka24.ru/wowtop50
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/ypmr.webp" group-title="Радио",Юность - ЮFM
+https://s05.volnorez.com/live-app/127912
+#EXTINF:-1 tvg-logo="https://live.glavnoeradio.ru/logo-radio/uvb76.webp" group-title="Радио",УВБ-76 Прямой эфир
+https://live.glavnoeradio.ru/uploads/buzzer.mp3
